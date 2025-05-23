@@ -7,7 +7,7 @@
 </div>
 
 **File summary**  
-[00 Source Datasets.md](00 Sources)  
+([00 Sources](https://github.com/Data-Frank/BellaBeat-A-research-into-fitness-metrics-using-R/blob/main/00%20Source%20Datasets.md))  
 [01 Data Exploration and Cleaning Daily Activity Dataset.r](https://github.com/Progdrummer1/BellaBeat-Using-R-to-research-relations-in-fitness-metrics./blob/15992ef0c4c4c3a9b4b4e5fc750e75b2f183a794/01%20Data%20Exploration%20and%20Cleaning%20Daily%20Activity%20Dataset.r)  
 [02 Data Exploration and Cleaning Sleep Dataset.r](https://github.com/Progdrummer1/BellaBeat-Using-R-to-research-relations-in-fitness-metrics./blob/15992ef0c4c4c3a9b4b4e5fc750e75b2f183a794/02%20Data%20Exploration%20and%20Cleaning%20Sleep%20Dataset)  
 [03 Data Analysis Daily Activity Dataset.r](https://github.com/Progdrummer1/BellaBeat-Using-R-to-research-relations-in-fitness-metrics./blob/15992ef0c4c4c3a9b4b4e5fc750e75b2f183a794/03%20Data%20Analysis%20Daily%20Activity%20Dataset.r)    
