@@ -1,7 +1,8 @@
 # BellaBeat: A research into fitness metrics using R
 <div align="center">
  
-![image](https://github.com/user-attachments/assets/dc8f405c-f882-44e4-96ff-42b2d68641a6)
+![image](https://github.com/user-attachments/assets/c794881d-7068-438d-8181-82d784506544)
+
 
 
 </div>
@@ -301,9 +302,6 @@ cor.test(dActivity_both$TotalSteps ,dActivity_both$Calories)
 
 
 
-<img src="https://github.com/user-attachments/assets/efa6b5fa-152c-477e-8a07-7d967b7642d8" alt="Correlations_With_Calories" width="500">
-
-
 
 **Relation between calories and very active minutes**   
 Since the amount of calories is not normally distributed, only non-parametric tests were used. Spearman’s correlation  test gives a correlation of  0.52 with a  p-value \< 2.2e-16 (see script above). This means there is a moderate monotonic relation between calories and the amount of steps taken. 
@@ -312,7 +310,8 @@ Since the amount of calories is not normally distributed, only non-parametric te
 ggplot(data = merged_data, aes(x = VeryActiveMinutes, y = Calories))+ geom_point()
 ```
 
-<img width="392" alt="Very_Active_Calories" src="https://github.com/user-attachments/assets/4fc52cf2-3f98-4e8f-9441-639a08beb1c3" />
+<img width="392" alt="Very_Active_Calories" src="https://github.com/user-attachments/assets/b556c0c7-eaf7-4e18-ba75-e8074f67efd3" />
+
 
 
 **Relation between calories and steps**  
@@ -322,9 +321,10 @@ The correlation between calories and total steps were calculated(see script abov
 ggplot(data = merged_data, aes(x = TotalSteps, y = Calories))+ geom_point()
 ```
 
-<img width="392" alt="Steps_Calories" src="https://github.com/user-attachments/assets/ed187fe9-bd06-4335-bd3c-eb3e4c6715b9" />
+<img width="392" alt="Steps_Calories" src="https://github.com/user-attachments/assets/d80c21fc-c737-4cc9-bd9f-7e7c3750b247" />
 
-**TThe daily activity data set and the sleep data set were merged**
+
+**The daily activity data set and the sleep data set were merged**
 ```r
 #Join dActivity_both and sleepDay_no_duplicates
 library(dplyr)
@@ -348,8 +348,7 @@ p-value < 2.2e-16, rho, -0.5684106, Signifiant relation!
 ggplot(na.omit(merged_data), aes(x = TotalMinutesAsleep, y = SedentaryMinutes))+ geom_point()
 ```
 
-![Sleep_Sedentary](https://github.com/user-attachments/assets/5e4cb281-cbfb-4449-b90c-2aa67f4869a8)
-
+<img width="392" alt="Steps_Calories" src="https://github.com/user-attachments/assets/28e2886b-418a-4d6f-b9b5-b138fcc0cda3" />
 
 
 
@@ -364,7 +363,8 @@ cor.test(merged_data$TotalMinutesAsleep, merged_data$Calories, method = "spearma
 ```r
 ggplot(na.omit(merged_data), aes(x = TotalMinutesAsleep, y = Calories))+ geom_point()
 ```
-![Sleep_Calories2](https://github.com/user-attachments/assets/8b1b8ce7-1282-40ef-a6b9-e874c63931b6)
+<img width="374" alt="Sleep_Calories" src="https://github.com/user-attachments/assets/6a53fe22-4d03-4855-958e-8cef5a9072f4" />
+
 
 
 
