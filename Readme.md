@@ -15,6 +15,21 @@
 [[05 Data Analysis Sleep and Daily Activity.r](https://github.com/Progdrummer1/BellaBeat-Using-R-to-research-relations-in-fitness-metrics./blob/15992ef0c4c4c3a9b4b4e5fc750e75b2f183a794/05%20Data%20Analysis%20Sleep%20and%20Daily%20Activity)  ](https://github.com/Data-Frank/Cyclistic-data-analysis-in-SQL-and-R/blob/main/05%20Data%20Analysis.sql)  
 [[06 Changelog.md](https://github.com/Progdrummer1/BellaBeat-Using-R-to-research-relations-in-fitness-metrics./blob/15992ef0c4c4c3a9b4b4e5fc750e75b2f183a794/Case_Study_2_%20Changelog.md)  ](https://github.com/Data-Frank/Cyclistic-data-analysis-in-SQL-and-R/blob/main/06%20Stakeholders%20Presentation.pdf)
 
+[00 Sources](https://github.com/Data-Frank/BellaBeat-A-research-into-fitness-metrics-using-R/blob/main/00%20Source%20Datasets.md)  
+[01 Data Exploration and Cleaning Daily Activity Dataset.r](https://github.com/Progdrummer1/BellaBeat-Using-R-to-research-relations-in-fitness-metrics./blob/15992ef0c4c4c3a9b4b4e5fc750e75b2f183a794/01%20Data%20Exploration%20and%20Cleaning%20Daily%20Activity%20Dataset.r)  
+[01 Database Partitioning.R](https://github.com/Data-Frank/Cyclistic-data-analysis-in-SQL-and-R/blob/main/01%20Database%20Partitioning.R)  
+[02 Data Exploration and Cleaning Sleep Dataset.r](https://github.com/Progdrummer1/BellaBeat-Using-R-to-research-relations-in-fitness-metrics./blob/15992ef0c4c4c3a9b4b4e5fc750e75b2f183a794/02%20Data%20Exploration%20and%20Cleaning%20Sleep%20Dataset)  
+[02 Data Merging.sql](https://github.com/Data-Frank/Cyclistic-data-analysis-in-SQL-and-R/blob/main/02%20Data%20Merging.sql)  
+[03 Data Analysis Daily Activity Dataset.r](https://github.com/Progdrummer1/BellaBeat-Using-R-to-research-relations-in-fitness-metrics./blob/15992ef0c4c4c3a9b4b4e5fc750e75b2f183a794/03%20Data%20Analysis%20Daily%20Activity%20Dataset.r)  
+[03 Data Exploration.sql](https://github.com/Data-Frank/Cyclistic-data-analysis-in-SQL-and-R/blob/main/03%20Data%20Exploration.sql)  
+[04 Merging Datasets.r](https://github.com/Progdrummer1/BellaBeat-Using-R-to-research-relations-in-fitness-metrics./blob/15992ef0c4c4c3a9b4b4e5fc750e75b2f183a794/04%20Merging%20Datasets.R)  
+[04 Data Cleaning.sql](https://github.com/Data-Frank/Cyclistic-data-analysis-in-SQL-and-R/blob/main/04%20Data%20Cleaning.sql)  
+[05 Data Analysis Sleep and Daily Activity.r](https://github.com/Progdrummer1/BellaBeat-Using-R-to-research-relations-in-fitness-metrics./blob/15992ef0c4c4c3a9b4b4e5fc750e75b2f183a794/05%20Data%20Analysis%20Sleep%20and%20Daily%20Activity)  
+[05 Data Analysis.sql](https://github.com/Data-Frank/Cyclistic-data-analysis-in-SQL-and-R/blob/main/05%20Data%20Analysis.sql)  
+[06 Changelog.md](https://github.com/Progdrummer1/BellaBeat-Using-R-to-research-relations-in-fitness-metrics./blob/15992ef0c4c4c3a9b4b4e5fc750e75b2f183a794/Case_Study_2_%20Changelog.md)  
+[06 Stakeholders Presentation.pdf](https://github.com/Data-Frank/Cyclistic-data-analysis-in-SQL-and-R/blob/main/06%20Stakeholders%20Presentation.pdf)  
+
+
 # Introduction
 In this case study BellaBeat has hired me as a junior data analyst. BellaBeat is a high-tech manufacturer of health-focused
  products for women. They sell several smart devices tracking activity, sleep, stress, and reproductive health. My task is to identify trends found in fitness data gathered by Fitbit. By doing this they hope to be able to gather valuable information to improve their own marketing strategy. 
